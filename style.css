@@ -5,7 +5,7 @@
   font-family: sans-serif;
 }
 .main {
-  background-image: url(Img/Hero_image.jpg);
+  background-image: url(Hero_image.jpg);
   height: 600px;
   background-size: cover;
   background-repeat: no-repeat;
